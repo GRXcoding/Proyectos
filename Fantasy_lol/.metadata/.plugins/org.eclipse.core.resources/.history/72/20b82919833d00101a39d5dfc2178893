@@ -1,0 +1,13 @@
+package fantasy_lol.main;
+
+import fantasy_lol.interfaz.Ventana;
+import fantasy_lol.interfaz.VentanaInicio;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		new VentanaInicio();
+
+	}
+}

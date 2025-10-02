@@ -1,0 +1,13 @@
+# Archivos de logs
+*.log
+
+# Configuración interna de Eclipse/IDE
+.metadata/
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+*.class
+bin/
+out/

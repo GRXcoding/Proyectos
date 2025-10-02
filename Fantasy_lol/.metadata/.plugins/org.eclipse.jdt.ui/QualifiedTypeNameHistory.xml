@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="fantasy_lol.modelo.Campeon"/>
+    <fullyQualifiedTypeName name="fantasy_lol.interfaz.Ventana"/>
+    <fullyQualifiedTypeName name="fantasy_lol.interfaz.VentanaInicio"/>
+    <fullyQualifiedTypeName name="fantasy_lol.interfaz.VentanaPrincipal"/>
+    <fullyQualifiedTypeName name="fantasy_lol.interfaz.VerPartidas"/>
+    <fullyQualifiedTypeName name="fantasy_lol.interfaz.CrearEquipo"/>
+</qualifiedTypeNameHistroy>
